@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'aravind-Dotnet'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_619F4A83C7D8414793812DFD9EF686A1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8F6F467D76654668AA04355DCCA56362 }}
           package: .
